@@ -1,0 +1,8 @@
+app/
+ ├── page.tsx
+ ├── dashboard/
+ │    └── page.tsx
+ ├── components/
+ │    └── QuestionCard.tsx
+ └── data/
+      └── questions.ts
