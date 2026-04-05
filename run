@@ -1,0 +1,3 @@
+npx create-next-app@latest jee-practice-app --typescript --tailwind --app
+cd jee-practice-app
+npm run dev
